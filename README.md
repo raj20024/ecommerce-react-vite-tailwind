@@ -3,7 +3,6 @@
 ![Screenshot 2024-05-16 at 13-57-51 Shoping Vite React](https://github.com/raj20024/ecommerce-react-vite-tailwind/assets/169052287/6f9d1ad4-280d-4912-9ad7-2a3bfd6a2ecc)
 Enjoy the Free code + Assets 😍
 
-  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
 
 
 Currently, two official plugins are available:
